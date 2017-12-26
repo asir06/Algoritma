@@ -1,4 +1,4 @@
-
+//String ile girilen değerin harf sayısını bulan program
 
 package Uygulamalar;
 import java.util.Scanner;
@@ -28,11 +28,3 @@ public class Uygulamalar51 {
 		 new String(new char[harf[i]])));} }
 	     }
 
-
-//Console Çıktısı
-//Bir Cümle Giriniz
-// ankara
-// a (3) 
-// n (1)
-// k (1)	     
-// r (1)

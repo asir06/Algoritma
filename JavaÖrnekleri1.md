@@ -1,8 +1,10 @@
 //String ile girilen değerin harf sayısını bulan program
 
-package Uygulamalar;
-import java.util.Scanner;
-public class Uygulamalar51 {
+
+
+         package Uygulamalar;
+         import java.util.Scanner;
+         public class Uygulamalar51 {
 
 	 public static void main(String[] args){     
 		 Scanner giris=new Scanner(System.in);
